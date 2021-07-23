@@ -1,0 +1,3 @@
+url: v0.raisingbeauty.client.tagonline.com
+require:
+    - cli-config.php
